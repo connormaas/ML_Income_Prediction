@@ -1,2 +1,3 @@
 # ML_Income_Prediction
-This paper uses machine learning classification methods to predict if a given individual’s income is above or below 50,000 USD.
+
+An individual's lifestyle is almost always defined by the amount of money they make. This makes knowledge about one’s income extremely powerful, as it gives insight to other valuable information about their life, such as their activities, lifestyle, and behavior. This paper uses machine learning classification methods to predict if a given individual’s income is above or below 50,000 USD based on demographic data originating from the United States Census Bureau. I have constructed a new model, which has surpassed (in accuracy) previously researched models on the same dataset.
